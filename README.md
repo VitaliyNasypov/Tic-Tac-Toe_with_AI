@@ -17,6 +17,4 @@ Whether you want to play with a friend or take a break and watch computers battl
 Let’s create a medium difficulty level. This AI should be a lot harder to beat! Are you up to the challenge?<br><br>
 
 <b>Stage 5: An undefeated champion</b><br>
-Oh no, what have we created here? An unbeatable AI monster! Indeed, this complex algorithm Minimax guarantees a win or a draw.<br><br>
-
-
+Implement the algorithm Minimax.<br><br>
